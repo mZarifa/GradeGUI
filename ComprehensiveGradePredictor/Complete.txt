@@ -1,0 +1,54 @@
+Category 1: To Get 69.5
+Assignment Weight 10 | Grade Needed -254.509803922
+Assignment Weight 20 | Grade Needed -77.2549019608
+Assignment Weight 50 | Grade Needed 29.0980392157
+Assignment Weight 100 | Grade Needed 64.5490196078
+Assignment Weight 200 | Grade Needed 82.2745098039
+Category 3: To Get 79.5
+Assignment Weight 10 | Grade Needed 12.1568627451
+Assignment Weight 20 | Grade Needed 56.0784313725
+Assignment Weight 50 | Grade Needed 82.431372549
+Assignment Weight 100 | Grade Needed 91.2156862745
+Assignment Weight 200 | Grade Needed 95.6078431373
+Category 1: To Get 79.5
+Assignment Weight 10 | Grade Needed 12.1568627451
+Assignment Weight 20 | Grade Needed 56.0784313725
+Assignment Weight 50 | Grade Needed 82.431372549
+Assignment Weight 100 | Grade Needed 91.2156862745
+Assignment Weight 200 | Grade Needed 95.6078431373
+Category 3: To Get 89.5
+Assignment Weight 10 | Grade Needed 278.823529412
+Assignment Weight 20 | Grade Needed 189.411764706
+Assignment Weight 50 | Grade Needed 135.764705882
+Assignment Weight 100 | Grade Needed 117.882352941
+Assignment Weight 200 | Grade Needed 108.941176471
+Category 1: To Get 89.5
+Assignment Weight 10 | Grade Needed 278.823529412
+Assignment Weight 20 | Grade Needed 189.411764706
+Assignment Weight 50 | Grade Needed 135.764705882
+Assignment Weight 100 | Grade Needed 117.882352941
+Assignment Weight 200 | Grade Needed 108.941176471
+Category 2: To Get 79.5
+Assignment Weight 10 | Grade Needed -10.0
+Assignment Weight 20 | Grade Needed 23.5714285714
+Assignment Weight 50 | Grade Needed 43.7142857143
+Assignment Weight 100 | Grade Needed 50.4285714286
+Assignment Weight 200 | Grade Needed 53.7857142857
+Category 3: To Get 69.5
+Assignment Weight 10 | Grade Needed -254.509803922
+Assignment Weight 20 | Grade Needed -77.2549019608
+Assignment Weight 50 | Grade Needed 29.0980392157
+Assignment Weight 100 | Grade Needed 64.5490196078
+Assignment Weight 200 | Grade Needed 82.2745098039
+Category 2: To Get 69.5
+Assignment Weight 10 | Grade Needed -210.0
+Assignment Weight 20 | Grade Needed -76.4285714286
+Assignment Weight 50 | Grade Needed 3.71428571429
+Assignment Weight 100 | Grade Needed 30.4285714286
+Assignment Weight 200 | Grade Needed 43.7857142857
+Category 2: To Get 89.5
+Assignment Weight 10 | Grade Needed 190.0
+Assignment Weight 20 | Grade Needed 123.571428571
+Assignment Weight 50 | Grade Needed 83.7142857143
+Assignment Weight 100 | Grade Needed 70.4285714286
+Assignment Weight 200 | Grade Needed 63.7857142857
