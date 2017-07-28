@@ -1,5 +1,4 @@
 About:
-To run the program, run the "GUISetup" program. The two text files 'Complete.txt' and 'CompleteSlim.txt' are overwritten
-when the GUI is ran.
+To run the program, run the "GUISetup" program. The two text files 'Complete.txt' and 'CompleteSlim.txt' are overwritten when the GUI is ran.
 How it works:
 Essentially, the GUI, when numbers are entered into the empty boxes and save is clicked, saves these numbers into a text file in a certain format (that mimicks the format of the GUI.) This format is able to be read by the 'Calc.Py' program, and then it exports the values into the 'Complete.txt' text file. The 'CompleteSlim.txt' file takes unrealistic values (like a -20% on a test) and removes them.
